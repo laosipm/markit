@@ -1,2 +1,2 @@
-# ecoding = utf8
+# coding = utf8
 print "hello"
